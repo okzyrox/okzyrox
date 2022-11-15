@@ -1,7 +1,7 @@
 <h3 align="center"><samp>hi i am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://ppl.moe/u/zyrox">zyrox</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    「 python, rust and lua developer <b>, definitely didn't steal this readme</b> 」<br>
+    「 * developer, definitely didn't steal this readme</b> 」<br>
   </samp>
 </p>
 <details align="center">
