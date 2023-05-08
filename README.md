@@ -7,9 +7,12 @@
 <details align="center">
   <summary> <samp>&#9776; Details</samp></summary>
 
-  self proclaimed nim programmer
+  self proclaimed nim (and python) programmer
 
   WARNING. THIS USER IS PRONE TO MAKING GOD AWFUL MIND-NUMBING CODE. BE WARNED!
+  
+  ![](https://raw.githubusercontent.com/okzyrox/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/okzyrox/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </details>
 <br>
