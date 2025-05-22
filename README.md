@@ -22,7 +22,7 @@
 
 <h4 align="left">Languages currently learning</h3>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/okzyrox/okzyrox/main/icons/kotlin.svg" alt="Java" width="40" height="40"> </a> 
+<a href="https://openjdk.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/okzyrox/okzyrox/main/icons/java.svg" alt="Java" width="40" height="40"> </a> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/okzyrox/okzyrox/main/icons/kotlin.svg" alt="Kotlin" width="40" height="40"> </a> 
 <a href="https://www.c-language.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/okzyrox/okzyrox/main/icons/c.svg" alt="C" width="40" height="40"> </a> 
 
