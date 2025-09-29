@@ -42,11 +42,14 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/okzyrox/okzyrox/main/icons/file_type_vscode.svg" alt="VSCode" width="40" height="40"/> </a>
 
 <h2>📊Stats</h2>
-<samp>
+<samp align="left" display="grid">
+  
   ![](https://raw.githubusercontent.com/okzyrox/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-  <br>
+  
   ![](https://raw.githubusercontent.com/okzyrox/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 </samp>
+
+  
 </p>
 
 </details>
