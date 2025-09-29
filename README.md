@@ -1,18 +1,18 @@
-<h3 align="center"><samp>hi, I am <b>okzyrox (or zyrox; ZyroX; zyro)</b></samp></h3>
+<h3 align="center"><samp>hey!, I am <b>okzyrox (or zyrox; ZyroX; zyro)</b></samp></h3>
+<p align="center">
+  keen software developer / engineer, from the UK 🇬🇧
+</p>
 <p align="center"><br>
   <samp>
     「 developer of things that I find interesting 」<br>
   </samp>
 </p>
 <details align="center">
-  <summary> <samp>&#9776; Details</samp></summary>
-
-<i> Some statistics, at times, may be inaccurate or misrepresentative of my skill with a programming language; view the real list below it </i>
+  <summary> <samp>&#9776; More Details</samp></summary>
   
-  ![](https://raw.githubusercontent.com/okzyrox/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-  ![](https://raw.githubusercontent.com/okzyrox/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<h2 align="left">🛠What I work with:</h2>
 
-<h3 align="left">Languages</h3>
+<h3 align="left">Main Languages</h3>
 <p align="left">
   
 <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/okzyrox/okzyrox/main/icons/file_type_nim.svg" alt="Nim" width="40" height="40"> </a> 
@@ -41,8 +41,13 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/okzyrox/okzyrox/main/icons/figma.svg" alt="Figma" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/okzyrox/okzyrox/main/icons/file_type_vscode.svg" alt="VSCode" width="40" height="40"/> </a>
 
+<h2>📊Stats</h2>
+<samp>
+  ![](https://raw.githubusercontent.com/okzyrox/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  <br>
+  ![](https://raw.githubusercontent.com/okzyrox/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+</samp>
 </p>
-
 
 </details>
 <br>
