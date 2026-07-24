@@ -22,6 +22,7 @@
   <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/okzyrox/okzyrox/main/icons/file_type_nim.svg" alt="Nim" width="40" height="40"> </a> 
   <a href="https://lua.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/okzyrox/okzyrox/main/icons/file_type_lua.svg" alt="Lua" width="40" height="40"> </a> 
   <a href="https://luau.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/okzyrox/okzyrox/main/icons/file_type_luau.svg" alt="Luau" width="40" height="40"> </a> 
+  <a> <img src="https://raw.githubusercontent.com/okzyrox/okzyrox/main/icons/cpp.svg" alt="C++" width="40" height="40"> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/okzyrox/okzyrox/main/icons/file_type_python.svg" alt="Python" width="40" height="40"> </a>
   <a> <img src="https://raw.githubusercontent.com/okzyrox/okzyrox/main/icons/javascript.svg" alt="Javascript" width="40" height="40"/> </a>
 
@@ -43,7 +44,6 @@
 
   <a href="https://openjdk.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/okzyrox/okzyrox/main/icons/java.svg" alt="Java" width="40" height="40"> </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/okzyrox/okzyrox/main/icons/kotlin.svg" alt="Kotlin" width="40" height="40"> </a> 
-  <a href="https://www.c-language.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/okzyrox/okzyrox/main/icons/c.svg" alt="C" width="40" height="40"> </a> 
   </p>
 
 </details>
